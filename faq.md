@@ -172,7 +172,7 @@ Kotlin также обсуждается во время различных ко
 ### Есть ли ещё какие-либо онлайн-ресурсы по Kotlin?
 
 В [сообществе Kotlin](https://kotlinlang.org/community/) вы можете найти множество ресурсов, включая [Дайджесты Kotlin](https://kotlin.link), организуемые сообществом,
-[новостную рассылку](http://www.kotlinweekly.net), [подкаст](https://talkingkotlin.com) и так далее.   
+[новостную рассылку](https://kotlinweekly.net), [подкаст](https://talkingkotlin.com) и так далее.   
 
 ### Где можно найти HD-логотип Kotlin?
 
